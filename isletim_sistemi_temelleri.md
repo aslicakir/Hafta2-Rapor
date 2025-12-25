@@ -40,8 +40,4 @@ Aynı anda birden fazla program çalışıyormuş gibi görünmesini sağlar.
 Her sürece adil bir şekilde CPU zamanı dağıtılır.
 Bu mekanizma sayesinde sistem performansı ve kullanıcı deneyimi artar.
 
----
 
-**Kazanç:**  
-Bu kavramlar sayesinde bir yazılımın yalnızca nasıl yazıldığını değil,  
-işletim sistemi üzerinde **nasıl ve nerede çalıştığını** tam olarak anlamış oluruz.
